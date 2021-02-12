@@ -1,1 +1,1 @@
-# Stereo-Matching-for-Depth-
+# Panoramic Stiching and Stereo Correspondence Algorithms
